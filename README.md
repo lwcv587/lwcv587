@@ -1,5 +1,15 @@
-### Hi there 👋
+### 
+|   这个作业属于哪个课程   | [软件工程](https://edu.cnblogs.com/campus/gdgy/InformationSecurity1912-Softwareengineering)     |      
+| ---- | ---- | 
+|   这个作业要求在哪里   |  [作业要求的链接](https://edu.cnblogs.com/campus/gdgy/InformationSecurity1912-Softwareengineering/homework/12145)    |
+|   这个作业的目标   |   自我介绍+软工5问+作业开篇   |
 
+# 自我介绍
+- 姓名:李伟辰
+- 班级:19级信息安全2班
+- 学号:3119005465
+- 兴趣爱好：下棋，游戏，打码。
+- Github:[https://github.com/lwcv587](https://github.com/lwcv587)
 <!--
 **lwcv587/lwcv587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
